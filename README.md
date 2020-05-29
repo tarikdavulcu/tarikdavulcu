@@ -1,5 +1,5 @@
 # tarikdavulcu
 Heroku my site application
 
-note: Then deploy…
+Note: Then deploy…
 git push heroku master
