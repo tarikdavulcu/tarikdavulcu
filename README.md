@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tarık Davulcu</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h1 align="center">Hi 👋, I'm Tarik Davulcu</h1>
+<h3 align="center">A passionate backend developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarikdavulcu&label=Profile%20views&color=0e75b6&style=flat" alt="tarikdavulcu" /> </p>
 
@@ -31,7 +31,7 @@
 
 <details><summary>Most Used Languages</summary><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarikdavulcu&count_private=true&show_icons=true&theme=radical&hide_rank=false" alt="tarikdavulcu" /></details>
 
-<details><summary>Tarik Davulcu Github Stats</summary><img src="https://github-readme-stats.vercel.app/api?username=tarikdavulcu&show_icons=true&locale=en" alt="tarikdavulcu" /></details>
+<details><summary>:blob: Tarik Davulcu Github Stats</summary><img src="https://github-readme-stats.vercel.app/api?username=tarikdavulcu&show_icons=true&locale=en" alt="tarikdavulcu" /></details>
 
 <details><summary>Total</summary><img src="https://github-readme-streak-stats.herokuapp.com/?user=tarikdavulcu&" alt="tarikdavulcu" /></details>
 
