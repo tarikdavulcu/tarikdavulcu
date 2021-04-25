@@ -31,7 +31,7 @@
 
 <details><summary>Stats<summary><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarikdavulcu&count_private=true&show_icons=true&theme=radical&hide_rank=false" alt="tarikdavulcu" /></details>
 
-<details><summary>Stats 2<summary><img align="center" src="https://github-readme-stats.vercel.app/api?username=tarikdavulcu&show_icons=true&locale=en" alt="tarikdavulcu" /></details>
+<details><summary>:bulb: Stats 2<summary><img align="center" src="https://github-readme-stats.vercel.app/api?username=tarikdavulcu&show_icons=true&locale=en" alt="tarikdavulcu" /></details>
 
 <details><summary>Stats 3<summary><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarikdavulcu&" alt="tarikdavulcu" /></details>
 
