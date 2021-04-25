@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/tarikdavulcu" target="blank"><img src="https://img.shields.io/twitter/follow/tarikdavulcu?logo=twitter&style=for-the-badge" alt="tarikdavulcu" /></a> </p>
 
-- 🔭 I’m currently working on [Answer&Match](www.tarikdavulcu.com)
+- 🔭 I’m currently working on [Answer&Match](https://www.tarikdavulcu.com)
 
 - 🌱 I’m currently learning **Flutter**
 
