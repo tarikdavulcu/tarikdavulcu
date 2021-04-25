@@ -22,8 +22,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tarikdavulcu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/4a1846e7df532503c68c43227031be90143e2184/src/images/icons/Social/twitter.svg" alt="tarikdavulcu" height="30" width="40" /></a>
-<a href="https://instagram.com/tarikdavulcu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="tarikdavulcu" height="30" width="40" /></a>
-<a href="/https://www.tarikdavulcu.com/feeds/posts/default?alt=rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/rss.svg" alt="https://www.tarikdavulcu.com/feeds/posts/default?alt=rss" height="30" width="40" /></a>
+<a href="https://instagram.com/tarikdavulcu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/4a1846e7df532503c68c43227031be90143e2184/src/images/icons/Social/instagram.svg" alt="tarikdavulcu" height="30" width="40" /></a>
+<a href="/https://www.tarikdavulcu.com/feeds/posts/default?alt=rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/4a1846e7df532503c68c43227031be90143e2184/src/images/icons/Social/rss.svg" alt="https://www.tarikdavulcu.com/feeds/posts/default?alt=rss" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
