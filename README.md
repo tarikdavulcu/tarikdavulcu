@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://www.tarikdavulcu.com](www.tarikdavulcu.com)
+- 👨‍💻 All of my projects are available at [https://www.tarikdavulcu.com](https://www.tarikdavulcu.com)
 
-- 📝 I regularly write articles on [https://www.tarikdavulcu.com](www.tarikdavulcu.com)
+- 📝 I regularly write articles on [https://www.tarikdavulcu.com](https://www.tarikdavulcu.com)
 
 - 💬 Ask me about **.net**
 
