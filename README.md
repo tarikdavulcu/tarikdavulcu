@@ -33,7 +33,7 @@
 
 <details><summary>:bulb: Tarik Davulcu Github Stats</summary><img src="https://github-readme-stats.vercel.app/api?username=tarikdavulcu&show_icons=true&locale=en" alt="tarikdavulcu" /></details>
 
-<details><summary>:bulb: Total</summary><img src="https://github-readme-streak-stats.herokuapp.com/?user=tarikdavulcu&" alt="tarikdavulcu" /></details>
+<details><summary>:bulb: Total</summary>(https://github-readme-stats.vercel.app/api?username=tarikdavulcu&show_icons=true)</details>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tarikdavulcu)](https://git.io/streak-stats)
 
