@@ -35,3 +35,5 @@
 
 <details><summary>:bulb: Total</summary><img src="https://github-readme-streak-stats.herokuapp.com/?user=tarikdavulcu&" alt="tarikdavulcu" /></details>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tarikdavulcu)](https://git.io/streak-stats)
+
