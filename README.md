@@ -1,11 +1,11 @@
-<h1 align="center">👋 Merhaba, ben Tarık Davulcu</h1>
+<h1 align="center">Hey there! I'm Tarık Davulcu 👋</h1>
 
 <p align="center">
   <a href="https://www.tarikdavulcu.com" target="_blank">
-    <img src="https://img.shields.io/badge/Web%20Site-Visit-1f8acb?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-1f8acb?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:hello@tarikdavulcu.com" target="_blank">
-    <img src="https://img.shields.io/badge/Eposta-Gönder-e63946?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-e63946?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://x.com/tarikdavulcu" target="_blank">
     <img src="https://img.shields.io/badge/X-Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -14,64 +14,70 @@
 
 ---
 
-### 🚀 Hakkımda
-
-🎯 Yazılım geliştirici <br>
-📍 İzmir, Türkiye <br>
-💻 Full-stack deneyim: .NET, Flutter, Firebase <br>
-🎓 Yüksek lisanslı: Yönetim Bilişim Sistemleri <br>
-🧠 Öğreniyorum: Mobil teknolojiler, modern UI/UX <br>
-📖 Daha fazlası için 👉 [tarikdavulcu.com](https://www.tarikdavulcu.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1f8acb&height=200&section=header&text=Tarık%20Davulcu&fontSize=40&fontAlign=center&fontColor=ffffff" />
 
 ---
 
-### 🛠️ Kullandığım Teknolojiler
+## 🚀 About Me
+
+- 💻 I'm a passionate full-stack developer from İzmir, Turkey  
+- 📱 Specialized in **.NET, Flutter, Firebase, and modern mobile tech**
+- 🎓 MSc in Management Information Systems (MIS)  
+- 🧠 Constantly learning new technologies and UI/UX trends  
+- 📝 Sharing my work and thoughts at [tarikdavulcu.com](https://www.tarikdavulcu.com)
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,flutter,firebase,js,mysql,git,react,ts,next,vite,supabase" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,flutter,firebase,ts,react,next,vite,mysql,git,figma,linux" />
 </p>
 
 ---
 
-### 📈 GitHub İstatistikleri
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarikdavulcu&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarikdavulcu&layout=compact&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tarikdavulcu&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarikdavulcu&theme=radical" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tarikdavulcu&theme=dracula&no-frame=true&column=7" />
 </p>
 
 ---
 
-### 📌 Projelerimden Bazıları
+## 📌 Featured Projects
 
-| Proje | Açıklama |
-|-------|----------|
-| [Chromium-Webapk](https://github.com/tarikdavulcu/Chromium-Webapk) | Chromium tabanlı WebAPK örneği |
-| [Flutter Firebase Connection](https://github.com/tarikdavulcu/flutter-firebase-cloudstore-connection) | Flutter + Firebase bağlantısı |
-| [Ionic WebAPI Login](https://github.com/tarikdavulcu/Ionic_Login_with_webApi) | WebAPI ile Ionic giriş ekranı |
-| [NetGsm SMS Gönderici](https://github.com/tarikdavulcu/NetGsmSmsSend) | NetGSM API ile SMS gönderimi |
-| [Nodejs Web App](https://github.com/tarikdavulcu/Nodejs_Web_App) | Basit bir Node.js uygulaması |
-
----
-
-### 🌱 İlgi Alanlarım
-
-- 🚀 Yeni teknolojileri öğrenmek
-- 🎯 UI/UX modernleşmesi
-- 📲 Mobil uygulamalar
-- 🎮 Basit oyunlar geliştirmek
-- 🏍️ Motosikletle gezmek & zıpkınla dalış
+| Project | Description |
+|--------|-------------|
+| [Chromium-Webapk](https://github.com/tarikdavulcu/Chromium-Webapk) | A Chromium-based WebAPK example |
+| [Flutter Firebase Connection](https://github.com/tarikdavulcu/flutter-firebase-cloudstore-connection) | Firebase integration in Flutter |
+| [Ionic WebAPI Login](https://github.com/tarikdavulcu/Ionic_Login_with_webApi) | Login UI using WebAPI in Ionic |
+| [NetGsm SMS Sender](https://github.com/tarikdavulcu/NetGsmSmsSend) | SMS sending with NetGSM API |
+| [Nodejs Web App](https://github.com/tarikdavulcu/Nodejs_Web_App) | A simple Node.js application |
 
 ---
 
-### 💡 Alıntı
+## 🌱 Interests
 
-> *“En iyi kod, en az koddur.”*
+- 📲 Mobile development
+- 🎨 Modern UI/UX design
+- 🛠️ Backend architecture
+- 🎮 Indie game dev
+- 🏍️ Motorcycling & spearfishing
+
+---
+
+## 💡 Quote
+
+> "The best code is no code at all." – Jeff Atwood
 
 ---
 
 <p align="center">
-  🙌 Ziyaret ettiğin için teşekkürler!  
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=tarikdavulcu&label=Profil%20Ziyaretleri&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=tarikdavulcu&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1f8acb&height=120&section=footer" />
