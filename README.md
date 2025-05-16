@@ -12,19 +12,17 @@
   </a>
 </p>
 
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1f8acb&height=200&section=header&text=Tarık%20Davulcu&fontSize=40&fontAlign=center&fontColor=ffffff" />
 
 ---
 
 ## 🚀 About Me
 
-- 💻 I'm a passionate full-stack developer from İzmir, Turkey  
-- 📱 Specialized in **.NET, Flutter, Firebase, and modern mobile tech**
-- 🎓 MSc in Management Information Systems (MIS)  
-- 🧠 Constantly learning new technologies and UI/UX trends  
-- 📝 Sharing my work and thoughts at [tarikdavulcu.com](https://www.tarikdavulcu.com)
+- 💻 Full-stack developer based in İzmir, Turkey  
+- 📱 Focused on **.NET, Flutter, Firebase**, and modern mobile solutions  
+- 🎓 Master's in Management Information Systems  
+- 🧠 Passionate about learning new technologies & creating elegant UI/UX  
+- 🌐 More at: [tarikdavulcu.com](https://www.tarikdavulcu.com)
 
 ---
 
@@ -39,9 +37,10 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarikdavulcu&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarikdavulcu&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tarikdavulcu&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarikdavulcu&theme=radical" width="47%" />
 </p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tarikdavulcu&theme=dracula&no-frame=true&column=7" />
 </p>
@@ -63,9 +62,9 @@
 ## 🌱 Interests
 
 - 📲 Mobile development
-- 🎨 Modern UI/UX design
-- 🛠️ Backend architecture
-- 🎮 Indie game dev
+- 🎨 UI/UX design
+- 🧩 Full-stack app architecture
+- 🎮 Mini games & side projects
 - 🏍️ Motorcycling & spearfishing
 
 ---
