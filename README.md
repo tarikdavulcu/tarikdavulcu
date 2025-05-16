@@ -28,7 +28,7 @@
 ### 🛠️ Kullandığım Teknolojiler
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,flutter,firebase,js,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,flutter,firebase,js,mysql,git,react,ts,next,vite,supabase" />
 </p>
 
 ---
