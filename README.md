@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Tarık Davulcu 👋</h1>
+<h1 align="center">Hey there! I'm Tarik Davulcu 👋</h1>
 
 <p align="center">
   <a href="https://www.tarikdavulcu.com" target="_blank">
@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1f8acb&height=200&section=header&text=Tarık%20Davulcu&fontSize=40&fontAlign=center&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1f8acb&height=200&section=header&text=Tarik%20Davulcu&fontSize=40&fontAlign=center&fontColor=ffffff" />
 
 ---
 
